@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "genai-tools-macros",
+    "genai-tools",
+]
+resolver = "2"
