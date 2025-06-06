@@ -11,7 +11,7 @@ Add to your `Cargo.toml`:
 ```toml
 [dependencies]
 genai = "0.3"
-genai-tools = "0.1"
+genai-tools = "0.3"
 serde = { version = "1.0", features = ["derive"] }
 schemars = { version = "1.0", features = ["derive"] }
 tokio = { version = "1.0", features = ["macros"] }
